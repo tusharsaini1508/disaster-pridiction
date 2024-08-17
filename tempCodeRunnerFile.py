@@ -1,0 +1,1 @@
+result.predicted_disaster_type
